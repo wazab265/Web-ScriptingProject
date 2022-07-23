@@ -1,2 +1,5 @@
 # Web-ScriptingProject
-A Web Scripting project which makes use of BeautifulSoup, to filter and display only highly up-voted articles, from Hacker News.
+
+-Parses through entire web page for articls.
+-Displays articles which only satisfy query criteria(likes, source, shares,etc)
+-Can be used for different websites.
